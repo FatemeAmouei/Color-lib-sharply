@@ -1,0 +1,34 @@
+.WordPress{
+
+}
+.WordPress-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 220px;
+    background-color: #f5f5f5;
+}
+
+.WordPress-text{
+    font-size: 28px;
+    color: #0e1015;
+    font-family: 'Helvetica';
+    padding-right: 10rem;
+}
+
+.WordPress-btn{
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.12);
+    border: 3px solid #fff;
+    color: #fff;
+    font-size: 13px;
+    align-content: center;
+    font-family: 'Raleway';
+    background-color: #5d47d7;
+    border: 3px solid #5d47d7;
+    line-height: 24px;
+    min-width: 200px;
+    padding-bottom: 13px;
+    padding-top: 13px;
+    margin-bottom: 1rem;
+}

@@ -1,0 +1,54 @@
+.Parallax-container{
+    position: relative;
+}
+
+.Parallax-img{
+    width: 100%;
+    height: 450px;
+    max-height: 100%;
+}
+
+.Parallax-text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+}
+
+.Parallax-text__title{
+    font-size: 4rem;
+    font-family: 'Helvetica';
+}
+
+.Parallax-text__subtitle{
+    font-size: 1rem;
+    padding: 25px 17rem;
+    font-family: 'Helvetica';
+    line-height: 1.5rem;
+}
+
+.Parallax-btn{
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.12);
+    border: 3px solid #fff;
+    color: #fff;
+    font-size: 13px;
+    line-height: 7rem;
+    width: 13rem;
+    height: 3rem;
+    align-content: center;
+    font-family: 'Helvetica';
+    background-color: #5d47d7;
+    border: 3px solid #5d47d7;
+    padding: 1rem 4rem;
+
+}
+
+.Parallax-btn:hover{
+    background-color: #745cf9;
+    border: 3px solid #745cf9;
+
+}

@@ -1,0 +1,44 @@
+.Customers-container{
+    position: relative;
+}
+
+.Customers-img{
+    width: 100%;
+    height: 450px;
+    max-height: 100%;
+}
+
+.Customers-text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+}
+
+.Customers-text__title{
+    font-size: 2rem;
+    font-family: 'Helvetica';
+}
+
+.Customers-text__subtitle{
+    font-size: 16px;
+    padding: 25px 22rem;
+    font-family: 'Helvetica';
+    line-height: 1.5rem;
+}
+
+.slider-img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.slider-text{
+    font-size: 16px;
+    padding: 20px 22rem;
+    font-family: 'Helvetica';
+}

@@ -1,0 +1,38 @@
+.Project-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #000;
+    width: 100%;
+    height: 60rem;
+}
+
+.Project-text__title{
+    margin-top: 6rem;
+    font-size: 30px;
+    color: #fff;
+    font-family: 'Helvetica';
+}
+
+.Project-text__subtitle{
+    font-size: 14px;
+    padding: 25px 17rem;
+    font-family: 'Helvetica';
+    line-height: 24px;
+    color: #fff;
+}
+
+.Projectcomponent-container{
+    text-align: left;
+}
+
+.Projectcomponent-img{
+    width: 379.5px;
+    height: 250px;
+}
+
+.Projectcomponent-img:hover{
+    opacity: 0.8;
+    
+}
+

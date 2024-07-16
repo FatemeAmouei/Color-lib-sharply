@@ -1,0 +1,29 @@
+.Clients-container{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 320px;
+    align-items: center;
+    background-color: #fff;
+}
+
+.Clients-text__title{
+    margin-top: 6rem;
+    font-size: 30px;
+    color: #0e1015;
+    font-family: 'Helvetica';
+}
+
+.Clients-icon{
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    padding-top:5rem;
+}
+
+.clients-img{
+    width: 50px;
+    height: 50px;
+}
+

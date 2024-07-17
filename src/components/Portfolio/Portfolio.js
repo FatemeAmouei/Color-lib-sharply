@@ -1,7 +1,6 @@
 import './Portfolio.css'
 import '../default/default.css'
 
-
 function Portfolio(){
   return (
     <div className='Portfolio-section'>

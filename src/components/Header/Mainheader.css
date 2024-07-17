@@ -29,14 +29,12 @@
     font-size: 1rem;
     padding-top: 25px;
     font-family: 'Raleway';
-
 }
 
 .mainheader-btns{
     padding-top: 25px;
     display: flex;
     justify-content: center;
-
 }
 
 .mainheader-btn{

@@ -24,7 +24,7 @@ function ProjectModal({onHide, body}) {
           <div className="detail-modal__left">
             <img src={body[0]} alt={body[1]} className='img-fluid' />
           </div>
-          <div className="detail-modal__left">
+          <div className="detail-modal__right">
             <p className='details-modal__subtitle'>{body[1]}</p>
             <p className='details-modal__text'>{body[2]}</p>
           </div>

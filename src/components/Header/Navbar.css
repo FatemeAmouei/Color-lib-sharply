@@ -13,7 +13,6 @@
 .section-navbar__right{
     display: flex;
     justify-content: space-between;
-    
 }
 
 .logo >a{
@@ -135,6 +134,7 @@
     margin-top: 3.5rem;
     transition: all 0.3s ease;
 }
+
 .navbar-search:hover .navbar-li__subitem{
     opacity: 1;
     visibility: visible;

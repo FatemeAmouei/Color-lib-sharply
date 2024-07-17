@@ -4,11 +4,6 @@
     align-items: center;
     background-color: #f5f5f5;
 }
-.Limitless-img{
-    width: 80%;
-    height: 800px;
-    max-height: 100%;
-}
 
 .Limitless-text__title{
     margin-top: 6rem;
@@ -45,4 +40,10 @@
     background-color: #745cf9;
     border: 3px solid #745cf9;
 
+}
+
+.Limitless-img{
+    width: 80%;
+    height: 800px;
+    max-height: 100%;
 }

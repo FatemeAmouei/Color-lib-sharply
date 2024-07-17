@@ -3,7 +3,7 @@ import '../default/default.css'
 
 function Footer(){
   return (
-    <div className="Footer">
+    <>
       <div className="Footer-container">
         <div className="Footer-left">
           <p className="Footer-text__title">Theme by <span>Colorlib</span> designed by <span>Fatemeh Amouie</span></p>
@@ -26,10 +26,9 @@ function Footer(){
           </a>
         </div>
       </div>
-    </div>
+    </>
   )
 }
-
 
 export default Footer;
 

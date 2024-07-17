@@ -27,8 +27,9 @@ function Navbar(){
       behavior: "smooth",
     }) 
  }
+
   return (
-    <div className='header-container'>
+    <>
       <div className="section-navbar">
         <div className="section-navbar__left">
           <h2 className="logo"><a href='#' PORTFOLIO onClick={logoClickHandler}>Shapely Demo</a></h2>
@@ -98,7 +99,7 @@ function Navbar(){
         </div>
       </div>
 
-    </div>
+    </>
   )
 }
 

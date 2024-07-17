@@ -67,7 +67,7 @@ function Project(){
     },
   ];
   return (
-    <div className="Project">
+    <section>
       <div className="Project-container">
         <p className="Project-text__title">Our Latest Projects</p>
         <p className="Project-text__subtitle">Here is our latest projects. You'll love them!</p>
@@ -85,7 +85,7 @@ function Project(){
         </div>   
       </div>
       {isShowDetailMoreModal && <ProjectModal onHide={CloseModalMoreDetails} body={[mainProjectInfos.img, mainProjectInfos.title, mainProjectInfos.text]} />}
-    </div>
+    </section>
   )
 }
 

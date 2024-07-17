@@ -50,6 +50,16 @@
     align-content: center;
     font-family: 'Raleway';
 }
+
+.btn-left:hover{
+    opacity: 0.8;
+}
+
+.btn-right:hover{
+    background-color: #fff;
+    color: #000;
+}
+
 .active{
     background-color: #5d47d7;
     border: 3px solid #5d47d7;

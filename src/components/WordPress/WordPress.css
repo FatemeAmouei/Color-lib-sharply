@@ -32,3 +32,8 @@
     padding-top: 13px;
     margin-bottom: 1rem;
 }
+
+.WordPress-btn:hover{
+    border: 3px solid #5d47d7;
+    background-color: #5d47d7;
+}

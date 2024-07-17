@@ -48,3 +48,8 @@
     font-size: 12px;
     font-weight: 700;
 }
+
+.Portfolio-container__left-btn:hover{
+    border: 3px solid #5d47d7;
+    background-color: #5d47d7;
+}

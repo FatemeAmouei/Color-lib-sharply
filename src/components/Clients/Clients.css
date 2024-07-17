@@ -2,7 +2,6 @@
     display: flex;
     flex-direction: column;
     width: 100%;
-    height: 320px;
     align-items: center;
     background-color: #fff;
 }
@@ -12,18 +11,33 @@
     font-size: 30px;
     color: #0e1015;
     font-family: 'Helvetica';
+    margin-bottom: 5rem;
 }
 
-.Clients-icon{
+.Clients-slider{
     width: 80%;
-    display: flex;
-    justify-content: space-around;
-    flex-direction: row;
-    padding-top:5rem;
+    height: 20vh;
+}
+
+.mySwiper{
+    width: 90%;
+    height: 15vh;
+}
+
+.swiper {
+    width: 100%;
+    height: 100%;
 }
 
 .clients-img{
-    width: 50px;
-    height: 50px;
+    width: 5rem;
+    height: 2.5rem;
+    opacity: 0.5;
 }
+
+.clients-img:hover{
+    opacity: 1;
+}
+
+
 

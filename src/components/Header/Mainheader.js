@@ -11,8 +11,8 @@ function Mainheader(){
               <p className="mainheader-text__title">We Change Everything WordPress</p>
               <p className="mainheader-text__subtitle">This is the only WordPress theme you will ever want to use.</p>
               <div className="mainheader-btns">
-                <a className='mainheader-btn active' href='#'>READ MORE</a>
-                <a className='mainheader-btn' href='#'>DOWNLOAD NOW</a>
+                <a className='mainheader-btn btn-left active' href='#'>READ MORE</a>
+                <a className='mainheader-btn btn-right' href='#'>DOWNLOAD NOW</a>
               </div>
             </div>
           </div>
